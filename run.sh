@@ -7,7 +7,8 @@ python finetune.py \
 --img_aug \
 --batch_size 128 \
 --dataset_name $DATASET_NAME \
---loss_names 'TAL+id+VTC+FGSM' \
+#--loss_names 'TAL+id+VTC+FGSM' \
+--loss_names 'TAL+id' \
 --num_epoch 30 \
 --root_dir ../../data \
 --ot_gamma 1.0 \
