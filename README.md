@@ -1,5 +1,5 @@
 ## Introduction
-This is the source code of AVSFA
+The full source code for AVSFA will be made publicly available upon the paper's acceptance.
 
 ## Requirements
 we use a single RTX4090 24G GPU for training and evaluation. 
